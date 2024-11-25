@@ -25,3 +25,18 @@ CONFIG FILE:
 "outDir": "./" -> "outDir": "./dist"
 "removeComments": true = Remove comments in compiler
 "noEmitOnError": true =
+"sourceMap": true
+
+DEBUGGING:
+write code  
+add breakpoint (red dot)
+Debug panel -> "Launch Program" (f5)
+Use toolbar to navigate code
+
+TYPES:
+
+- any
+- unknown
+- never
+- enum
+- tuple
